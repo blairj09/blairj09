@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Caffeine Level](https://caffein8d.dev/api/v1/badge/jamesmblair09)](https://caffein8d.dev/u/jamesmblair09)
+
 <!--
 **blairj09/blairj09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
